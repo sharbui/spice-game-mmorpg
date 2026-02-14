@@ -1,0 +1,15 @@
+{
+  "id": "goblin_scout",
+  "name": "哥布林斥候",
+  "level": 3,
+  "hp": 40,
+  "maxHp": 40,
+  "attack": 8,
+  "defense": 3,
+  "exp": 25,
+  "gold": [10, 25],
+  "drops": [
+    { "item": "goblin_ear", "chance": 0.5 },
+    { "item": "rusty_dagger", "chance": 0.1 }
+  ]
+}

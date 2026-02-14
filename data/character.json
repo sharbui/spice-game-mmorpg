@@ -2,9 +2,9 @@
   "name": "小辣椒",
   "emoji": "🌶️",
   "level": 1,
-  "exp": 0,
+  "exp": 10,
   "expToNext": 100,
-  "hp": 100,
+  "hp": 92,
   "maxHp": 100,
   "mp": 30,
   "maxMp": 30,
@@ -14,11 +14,17 @@
     "area": "新手村",
     "floor": 1
   },
-  "gold": 100,
+  "gold": 114,
   "inventory": [
-    { "id": "potion_small", "name": "小型生命藥水", "qty": 3 }
+    {
+      "id": "potion_small",
+      "name": "小型生命藥水",
+      "qty": 3
+    }
   ],
-  "skills": ["普通攻擊"],
+  "skills": [
+    "普通攻擊"
+  ],
   "status": "idle",
   "createdAt": "2026-02-15T02:20:00+08:00"
 }

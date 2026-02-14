@@ -1,0 +1,14 @@
+{
+  "id": "slime",
+  "name": "史萊姆",
+  "level": 1,
+  "hp": 20,
+  "maxHp": 20,
+  "attack": 5,
+  "defense": 2,
+  "exp": 10,
+  "gold": [5, 15],
+  "drops": [
+    { "item": "slime_gel", "chance": 0.3 }
+  ]
+}

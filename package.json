@@ -1,0 +1,24 @@
+{
+  "name": "spice-game-mmorpg",
+  "version": "0.1.0",
+  "description": "🌶️ OpenClaw AI 的 MMORPG 冒險世界",
+  "main": "dist/game.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli.js",
+    "dev": "tsx src/cli.ts",
+    "status": "tsx src/cli.ts status",
+    "explore": "tsx src/cli.ts explore",
+    "turn": "tsx src/cli.ts turn"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "tsx": "^4.0.0",
+    "@types/node": "^20.0.0"
+  },
+  "keywords": ["openclaw", "mmorpg", "game", "ai"],
+  "author": "spice-game",
+  "license": "MIT"
+}
