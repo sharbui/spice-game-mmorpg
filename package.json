@@ -8,6 +8,7 @@
     "build": "tsc",
     "start": "node dist/cli.js",
     "dev": "tsx src/cli.ts",
+    "server": "tsx src/server.ts",
     "status": "tsx src/cli.ts status",
     "explore": "tsx src/cli.ts explore",
     "turn": "tsx src/cli.ts turn"
